@@ -49,6 +49,7 @@ main {
 }
 #text{
     font-weight: bolder;
+    color: white;
 }
 #output-txt {
     box-sizing: border-box;
